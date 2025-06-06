@@ -1,0 +1,242 @@
+[
+  {
+    "id": "airpods-pro-2",
+    "name": "Apple AirPods Pro ",
+    "imageUrl": "https://cdn.sistemawbuy.com.br/arquivos/b0c36266e1a9271e949cf113bd58d369/produtos/6483ad9f0956a/a1-6483ad9f41d41_mini.jpg",
+    "description": "Cancelamento ativo de ruído, som imersivo e modo ambiente adaptativo.",
+    "price": 1299.00,
+    "discount": 5,
+    "installments": 10,
+    "freeShipping": true,
+    "rating": {
+      "rate": 4.9,
+      "count": 254
+    },
+    "specs": {
+      "battery": "6h (30h com estojo)",
+      "bluetooth": "5.3",
+      "waterproof": "IPX4"
+    },
+    "vendor": {
+      "vendorName": "Apple",
+      "vendorCategory": "OFICIAL",
+      "vendorSales": 1000
+    }
+  },
+  {
+    "id": "galaxy-buds2-pro",
+    "name": "Samsung Galaxy Buds2 Pro",
+    "imageUrl": "https://5df841b7b6204c6b.cdn.gocache.net/images/1727189/fone-de-ouvido-headset-com-microfone-conexao-bluetooth-preto-5-hs-203-15ef5203..jpg",
+    "description": "Som Hi-Fi, ANC inteligente e design ergonômico.",
+    "price": 899.00,
+    "discount": 6,
+    "installments": 5,
+    "freeShipping": true,
+    "rating": {
+      "rate": 4.8,
+      "count": 2541
+    },
+    "specs": {
+      "battery": "5h (18h com estojo)",
+      "bluetooth": "5.3",
+      "waterproof": "IPX7"
+    },
+    "vendor": {
+      "vendorName": "Samsung",
+      "vendorCategory": "OFICIAL",
+      "vendorSales": 10000
+    }
+  },
+  {
+    "id": "sony-wf-1000xm5",
+    "name": "Sony WF-1000XM5",
+    "imageUrl": "https://cdn.sistemawbuy.com.br/arquivos/b0c36266e1a9271e949cf113bd58d369/produtos/63f23f616c312/a-63f23f61984b3.jpg",
+    "description": "Melhor cancelamento de ruído do mercado com áudio Hi-Res.",
+    "price": 1499.00,
+    "discount": 5,
+    "installments": 10,
+    "freeShipping": true,
+    "rating": {
+      "rate": 4.6,
+      "count": 1300
+    },
+    "specs": {
+      "battery": "8h (24h com estojo)",
+      "bluetooth": "5.3",
+      "waterproof": "IPX4"
+    },
+    "vendor": {
+      "vendorName": "Sony",
+      "vendorCategory": "OFICIAL",
+      "vendorSales": 2003
+    }
+  },
+  {
+    "id": "jbl-live-free-nc",
+    "name": "JBL Live Free NC+",
+    "imageUrl": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/f/o/fone-de-ouvido-bluetooth-jbl-wave-flex_904463.webp",
+    "description": "Tecnologia JBL Signature Sound e cancelamento ativo de ruído.",
+    "price": 599.00,
+    "discount": 8,
+    "installments": 5,
+    "freeShipping": true,
+    "rating": {
+      "rate": 4.8,
+      "count": 2288
+    },
+    "specs": {
+      "battery": "7h (21h com estojo)",
+      "bluetooth": "5.1",
+      "waterproof": "IPX7"
+    },
+    "vendor": {
+      "vendorName": "JBL",
+      "vendorCategory": "OFICIAL",
+      "vendorSales": 3003
+    }
+  },
+  {
+    "id": "anker-soundcore-liberty-4",
+    "name": "Anker Soundcore Liberty 4",
+    "imageUrl": "https://example.com/images/soundcore-liberty-4.jpg",
+    "description": "Áudio espacial e monitoramento de frequência cardíaca.",
+    "price": 799.00,
+    "discount": 2,
+    "installments": 5,
+    "freeShipping": true,
+    "rating": {
+      "rate": 4.5,
+      "count": 22
+    },
+    "specs": {
+      "battery": "9h (28h com estojo)",
+      "bluetooth": "5.3",
+      "waterproof": "IPX4"
+    },
+    "vendor": {
+      "vendorName": "Tecno Shop",
+      "vendorCategory": "MERCADO LÍDER",
+      "vendorSales": 3003
+    }
+  },
+  {
+    "id": "beats-fit-pro",
+    "name": "Beats Fit Pro",
+    "imageUrl": "https://example.com/images/beats-fit-pro.jpg",
+    "description": "Chip Apple H1, ANC e som poderoso com encaixe seguro.",
+    "price": 1199.00,
+    "discount": 17,
+    "installments": 10,
+    "freeShipping": true,
+    "rating": {
+      "rate": 4.8,
+      "count": 22
+    },
+    "specs": {
+      "battery": "6h (24h com estojo)",
+      "bluetooth": "5.0",
+      "waterproof": "IPX4"
+    },
+    "vendor": {
+      "vendorName": "Tecno Shop",
+      "vendorCategory": "MERCADO LÍDER",
+      "vendorSales": 3003
+    }
+  },
+  {
+    "id": "xiaomi-redmi-buds-4-pro",
+    "name": "Xiaomi Redmi Buds 4 Pro",
+    "imageUrl": "https://example.com/images/redmi-buds-4-pro.jpg",
+    "description": "ANC híbrido, drivers duplos e conectividade Bluetooth 5.3.",
+    "price": 399.00,
+    "discount": 12,
+    "installments": 5,
+    "freeShipping": true,
+    "rating": {
+      "rate": 4.9,
+      "count": 5000
+    },
+    "specs": {
+      "battery": "9h (36h com estojo)",
+      "bluetooth": "5.3",
+      "waterproof": "IP54"
+    },
+    "vendor": {
+      "vendorName": "Tecno Shop",
+      "vendorCategory": "MERCADO LÍDER",
+      "vendorSales": 3003
+    }
+  },
+  {
+    "id": "qcy-t13",
+    "name": "QCY T13",
+    "imageUrl": "https://example.com/images/qcy-t13.jpg",
+    "description": "Fone Bluetooth com ótima autonomia e baixo custo.",
+    "price": 129.00,
+    "discount": 10,
+    "installments": 2,
+    "freeShipping": true,
+    "rating": {
+      "rate": 4.2,
+      "count": 1000
+    },
+    "specs": {
+      "battery": "8h (40h com estojo)",
+      "bluetooth": "5.1",
+      "waterproof": "IPX5"
+    },
+    "vendor": {
+      "vendorName": "Tecno Shop",
+      "vendorCategory": "MERCADO LÍDER",
+      "vendorSales": 3003
+    }
+  },
+  {
+    "id": "edifier-w200t",
+    "name": "Edifier W200T",
+    "imageUrl": "https://example.com/images/edifier-w200t.jpg",
+    "description": "Baixa latência e suporte a áudio de alta qualidade.",
+    "price": 259.00,
+    "discount": 6,
+    "installments": 2,
+    "freeShipping": true,
+    "rating": {
+      "rate": 4.4,
+      "count": 400
+    },
+    "specs": {
+      "battery": "7h (21h com estojo)",
+      "bluetooth": "5.3",
+      "waterproof": "IP54"
+    },
+    "vendor": {
+      "vendorName": "Tecno Shop",
+      "vendorCategory": "MERCADO LÍDER",
+      "vendorSales": 3003
+    }
+  },
+  {
+    "id": "haylou-gt7",
+    "name": "Haylou GT7 Neo",
+    "imageUrl": "https://example.com/images/haylou-gt7.jpg",
+    "description": "Design discreto, baixo custo e boa autonomia.",
+    "price": 139.00,
+    "discount": 3,
+    "installments": 2,
+    "freeShipping": true,
+    "rating": {
+      "rate": 4.0,
+      "count": 300
+    },
+    "specs": {
+      "battery": "5h (20h com estojo)",
+      "bluetooth": "5.2",
+      "waterproof": "IPX4"
+    },
+    "vendor": {
+      "vendorName": "Tecno Shop",
+      "vendorCategory": "MERCADO LÍDER",
+      "vendorSales": 3003
+    }
+  }
+]
